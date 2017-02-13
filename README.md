@@ -1,0 +1,3 @@
+# Angularapp
+
+Open index.html
